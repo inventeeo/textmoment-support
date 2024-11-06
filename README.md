@@ -16,7 +16,8 @@ Welcome to the official support page for Text Moment, your free text scanning co
 1. Open the app
 2. Tap "Image Scan"
 3. Capture each page
-4. Tap Image Counting numbers on top right area when finished
+4. Tap Image Counting Number on top right area of the camera screen when finished
+5. crop image if you need, 'Scan' when finished.
 
 ### Does the app work offline?
 Yes! All scanning and text recognition features work without internet connection.
