@@ -1,14 +1,25 @@
 # Text Moment Support
-
-Welcome to the official support page for Text Moment, your free text scanning companion.
+Welcome to the official support page for Text Moment, your AI-powered text scanning companion.
 
 ## 📱 Features
+
+### Free Features
 - Offline Processing
-- Text Recognition
+- Basic Text Recognition
 - PDF Document Scanning
-- Multi-image processing
 - Multi-language Support
 - QR/Barcode Scanning
+- 5 AI scan credits/month
+
+### Premium Features (Basic Subscription)
+- Everything in Free, plus:
+- Multi-image scanning
+- AI-enhanced OCR & PDF processing
+- Handwritten Recognition
+- AI Math Solver
+- AI-Enhanced Translation
+- Receipt formatting
+- 100 AI scan credits/month
 
 ## 🤔 Frequently Asked Questions
 
@@ -16,11 +27,24 @@ Welcome to the official support page for Text Moment, your free text scanning co
 1. Open the app
 2. Tap "Image Scan"
 3. Capture each page
-4. Tap Image Counting Number on top right area of the camera screen when finished
-5. crop image if you need, 'Scan' when finished.
+4. Tap Image Counting numbers on top right area when finished
 
 ### Does the app work offline?
-Yes! All scanning and text recognition features work without internet connection.
+Yes! All basic scanning and text recognition features work without internet connection. AI-enhanced features require internet connectivity.
+
+### What are AI scan credits?
+AI scan credits allow you to use advanced AI features like enhanced OCR, math solving, and translation. Free users receive 5 credits per month, while subscribers receive 100 credits per month.
+
+### How do I subscribe to the Basic plan?
+1. Open the app
+2. Tap on "Settings" or look for subscription options
+3. Select "Basic" plan at $2.49/month
+4. Complete the purchase through Apple's payment system
+
+### How do I cancel my subscription?
+Subscriptions can be managed through your Apple ID:
+1. Go to Settings > [Your Name] > Subscriptions
+2. Find Text Moment and tap "Cancel Subscription"
 
 ### Which languages are supported?
 - Afrikaans
@@ -62,18 +86,25 @@ Yes! All scanning and text recognition features work without internet connection
 - Vietnamese
 
 ## 📧 Contact Support
-
 Having issues? Please:
 1. Check the FAQ above
-2. Search existing [Issues](https://github.com/inventeeo/textmoment-support/issues)
+2. Search existing [Issues](https://github.com/yourusername/scanmoments-support/issues)
 3. Create a new issue if needed
 4. Or email us: apps@inventeeo.com
 
 ## 🔒 Privacy Policy
 - https://www.inventeeo.com/#our-privacy
 
-
 ## 🆕 Latest Updates
+- Version 2.0.1: AI Features Update
+  - Added subscription model with Basic tier
+  - AI-enhanced OCR & PDF processing
+  - Handwritten text recognition
+  - Math problem solving
+  - Enhanced translation
+  - Receipt formatting
+  - Credit system for AI features
+
 - Version 1.0: Initial release
   - Offline processing
   - Multi-language support
