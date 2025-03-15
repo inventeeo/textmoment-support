@@ -4,6 +4,7 @@ Welcome to the official support page for Text Moment, your AI-powered text scann
 ## 📱 Features
 
 ### Free Features
+- On Device Machine Learning OCR
 - Offline Processing
 - Basic Text Recognition
 - PDF Document Scanning
@@ -15,15 +16,15 @@ Welcome to the official support page for Text Moment, your AI-powered text scann
 - Everything in Free, plus:
 - Multi-image scanning
 - AI-enhanced OCR & PDF processing
-- Handwritten Recognition
+- AI Receipt formatting
+- AI Handwritten Recognition
 - AI Math Solver
 - AI-Enhanced Translation
-- Receipt formatting
 - 100 AI scan credits/month
 
 ## 🤔 Frequently Asked Questions
 
-### How do I scan multiple pages?
+### How do I scan multiple pages? (if enabled)
 1. Open the app
 2. Tap "Image Scan"
 3. Capture each page
@@ -33,7 +34,7 @@ Welcome to the official support page for Text Moment, your AI-powered text scann
 Yes! All basic scanning and text recognition features work without internet connection. AI-enhanced features require internet connectivity.
 
 ### What are AI scan credits?
-AI scan credits allow you to use advanced AI features like enhanced OCR, math solving, and translation. Free users receive 5 credits per month, while subscribers receive 100 credits per month.
+AI scan credits allow you to use advanced AI features like enhanced OCR, Handwritten Recognition, Receipt formatting, math solving, and translation. Free users receive 5 credits per month, while subscribers receive 100 credits per month.
 
 ### How do I subscribe to the Basic plan?
 1. Open the app
@@ -88,7 +89,7 @@ Subscriptions can be managed through your Apple ID:
 ## 📧 Contact Support
 Having issues? Please:
 1. Check the FAQ above
-2. Search existing [Issues](https://github.com/yourusername/scanmoments-support/issues)
+2. Search existing [Issues](https://github.com/inventeeo/textmoment-support/issues)
 3. Create a new issue if needed
 4. Or email us: apps@inventeeo.com
 
