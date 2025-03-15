@@ -111,7 +111,7 @@ Having issues? Please:
 - https://www.inventeeo.com/#our-privacy
 
 ## 🆕 Latest Updates
-- Version 2.0.1: AI Features Update
+- Version 2.0.x: AI Features Update
   - Added subscription model with Basic tier
   - AI-enhanced OCR & PDF processing
   - Handwritten text recognition
