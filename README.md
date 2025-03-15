@@ -120,8 +120,10 @@ Having issues? Please:
   - Receipt formatting
   - Credit system for AI features
 
-- Version 1.x.x: Initial release
+- Version 1.x.x: Basic Feature release
+  - On Device Machine Learning OCR
+  - Basic Text Recognition
   - Offline processing
   - Multi-language support
   - PDF scanning
-  - QR code reading
+  - QR/Barcode code reading
