@@ -43,8 +43,7 @@ AI scan credits allow you to use advanced AI features like enhanced OCR, Handwri
 4. Complete the purchase through Apple's payment system
 
 ### How do I cancel my subscription?
-- iOS
-Subscriptions can be managed through your Apple ID in your device settings:
+- iOS: Subscriptions can be managed through your Apple ID in your device settings:
 
 1. Open the **Settings** app on your iPhone.
 2. Tap on **[Your Name]** at the top of the Settings menu.
@@ -53,8 +52,7 @@ Subscriptions can be managed through your Apple ID in your device settings:
 5. Tap **Cancel Subscription**.
 6. Confirm the cancellation when prompted.
 
-- Android
-Subscriptions can be managed through your Google Play account:
+- Android: Subscriptions can be managed through your Google Play account:
 
 1. Open the Google Play Store app on your Android device.
 2. Tap your profile icon in the top right corner.
