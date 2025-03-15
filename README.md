@@ -43,9 +43,25 @@ AI scan credits allow you to use advanced AI features like enhanced OCR, Handwri
 4. Complete the purchase through Apple's payment system
 
 ### How do I cancel my subscription?
-Subscriptions can be managed through your Apple ID:
-1. Go to Settings > [Your Name] > Subscriptions
-2. Find Text Moment and tap "Cancel Subscription"
+- iOS
+Subscriptions can be managed through your Apple ID in your device settings:
+
+1. Open the **Settings** app on your iPhone.
+2. Tap on **[Your Name]** at the top of the Settings menu.
+3. Tap on **Subscriptions**.
+4. Find **Text Moment** in the list of active subscriptions and tap on it.
+5. Tap **Cancel Subscription**.
+6. Confirm the cancellation when prompted.
+
+- Android
+Subscriptions can be managed through your Google Play account:
+
+1. Open the Google Play Store app on your Android device.
+2. Tap your profile icon in the top right corner.
+3. Select "Payments & subscriptions" > "Subscriptions".
+4. Find "Text Moment" in the list of subscriptions and tap on it.
+5. Tap "Cancel subscription" and follow the on-screen instructions.
+
 
 ### Which languages are supported?
 - Afrikaans
