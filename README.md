@@ -120,7 +120,7 @@ Having issues? Please:
   - Receipt formatting
   - Credit system for AI features
 
-- Version 1.0: Initial release
+- Version 1.x.x: Initial release
   - Offline processing
   - Multi-language support
   - PDF scanning
